@@ -13,7 +13,7 @@
 3.输入你的助记词英文查找对应的字符，开始记录/刻制
 
 文件直链：https://github.com/583/bip39-binary/blob/main/BIP39-en-printable.txt
-直接用浏览器ctrl+f查找也可以
+直接用浏览器 CTRL+F 查找也可以
 
 
 
